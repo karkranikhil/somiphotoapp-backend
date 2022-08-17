@@ -112,3 +112,6 @@ exports
 *.cache
 build
 .strapi-updater.json
+package-lock.json
+.env.example
+postgres://wlottlbdlleoyf:cf8e73b519f89663d6b1d465cfe20d0cfcfa735ef864203604e6259183e90b3f@ec2-52-207-15-147.compute-1.amazonaws.com:5432/df8upbg7i28pjp
